@@ -24,4 +24,4 @@ function displayTime() {
 	document.getElementById("seconds").innerHTML = sec;
 
 }
-setInterval(displayTime,10);
+setInterval(displayTime,1000);
